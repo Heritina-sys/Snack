@@ -1,0 +1,9 @@
+total 0
+drwxrwx---  4 root aid_everybody 4096 Mar  5 08:00 .
+drwxrwx--- 49 root aid_everybody 4096 Mar  5 08:00 ..
+drwxrwx---  4 root aid_everybody 4096 Mar  5 08:00 2019
+-rw-rw----  1 root aid_everybody    0 Mar  5 08:02 fichier.txt
+-rw-rw----  1 root aid_everybody 7578 May  9  2019 image.png
+-rw-rw----  1 root aid_everybody 5907 May 16  2019 lorem.txt
+drwxrwx---  2 root aid_everybody 4096 Mar  5 08:00 test
+-rw-rw----  1 root aid_everybody    0 Jun 28  2019 test2
